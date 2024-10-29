@@ -1,0 +1,37 @@
+{
+    "Deficiencies": [
+        {
+            "Deficiency": "DEFICIENCY 1 – UNIT: STRUCTURAL SYSTEM EXHIBITS SIGNS OF SERIOUS FAILURE.",
+            "Title": "STRUCTURAL SYSTEM",
+            "HCV fail/Pass": "Fail",
+            "HCV correction timeframe": "24 hours",
+            "Severity": "Life-Threatening",
+            "Criteria in policy document": "Structural system exhibits signs of serious failure and may threaten the resident’s safety.",
+            "Violation": "Yes",
+            "Description": "The deficiency in the Image_data matches the 'DEFICIENCY 1 – UNIT: STRUCTURAL SYSTEM EXHIBITS SIGNS OF SERIOUS FAILURE.' The location 'UNIT' and the potential fire hazard due to scattered firewood and ash correlate with the structural system's failure criteria. The 'OBSERVATION' section does not require sensory assessment.",
+            "Recommendation": "Ensure the area around the fireplace is kept tidy and free from loose firewood and ash to prevent potential fire hazards. Immediate cleaning and organization are recommended to mitigate the risk."
+        },
+        {
+            "Deficiency": "DEFICIENCY 1 – INSIDE: STRUCTURAL SYSTEM EXHIBITS SIGNS OF SERIOUS FAILURE.",
+            "Title": "STRUCTURAL SYSTEM",
+            "HCV fail/Pass": "Fail",
+            "HCV correction timeframe": "24 hours",
+            "Severity": "Life-Threatening",
+            "Criteria in policy document": "Structural system exhibits signs of serious failure and may threaten the resident’s safety.",
+            "Violation": "No",
+            "Description": "The deficiency in the Image_data does not match the 'DEFICIENCY 1 – INSIDE: STRUCTURAL SYSTEM EXHIBITS SIGNS OF SERIOUS FAILURE.' The location 'INSIDE' does not correlate with the 'UNIT' location in the Image_data.",
+            "Recommendation": "Not Applicable"
+        },
+        {
+            "Deficiency": "DEFICIENCY 1 – OUTSIDE: STRUCTURAL SYSTEM EXHIBITS SIGNS OF SERIOUS FAILURE.",
+            "Title": "STRUCTURAL SYSTEM",
+            "HCV fail/Pass": "Fail",
+            "HCV correction timeframe": "24 hours",
+            "Severity": "Life-Threatening",
+            "Criteria in policy document": "Structural system exhibits signs of serious failure and may threaten the resident’s safety.",
+            "Violation": "No",
+            "Description": "The deficiency in the Image_data does not match the 'DEFICIENCY 1 – OUTSIDE: STRUCTURAL SYSTEM EXHIBITS SIGNS OF SERIOUS FAILURE.' The location 'OUTSIDE' does not correlate with the 'UNIT' location in the Image_data.",
+            "Recommendation": "Not Applicable"
+        }
+    ]
+}
